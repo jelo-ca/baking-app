@@ -1,0 +1,2 @@
+11/19/22
+Made the ToDoList.jsx which is planned to be implemented into a sidebar. Future plans to clean up code.
